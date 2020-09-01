@@ -3,11 +3,15 @@ class Jobs {
   String companyName;
   String location;
   String salaryRange;
+  String logoName;
+  bool savedJob;
 
   Jobs({
     this.jobPosition,
     this.companyName,
     this.location,
-    this.salaryRange
+    this.salaryRange,
+    this.logoName,
+    this.savedJob
   });
 }
