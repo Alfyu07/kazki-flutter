@@ -1,16 +1,23 @@
-# kazki_mobile
+**Choose language:**<br>
+[English](./README.md) | [Bahasa Indonesia](./README_bahasa.md)
 
-A new Flutter application.
+# Kazki - Job Seeker Application
+> A Flutter application built to fulfill assignment submission in the "Learn to Make Flutter Application for Beginners" class from Dicoding. The work on this project is only an implementation of a design made by Hachibur Rahman, which can be accessed at [this link](https://dribbble.com/shots/14099860-Kazki-Job-Finding-App/attachments/5721545?mode=media).
 
-## Getting Started
+## Technologies Used
+* Dart
+* Flutter
 
-This project is a starting point for a Flutter application.
+## What I Learned
+* Use of widgets to build an attractive user interface.
+* Use of state to organize the functionality of this application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Captures
+#### Login Page:
+![Login Page](./screenshots/input_name.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Landing Page:
+![Landing Page](./screenshots/landing_page.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Details Page:
+![Details Page](./screenshots/details_page.png)
